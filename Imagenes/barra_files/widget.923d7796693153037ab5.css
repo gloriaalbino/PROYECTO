@@ -1,0 +1,4 @@
+@font-face{font-family:'dk-icons-old';src:url("https://dailykarma-images.s3-us-west-2.amazonaws.com/widgets/dk-icons-old.woff") format("woff");font-weight:normal;font-style:normal;font-display:block}
+
+@media only screen and (max-width: 430px){body.modal-open{overflow:hidden !important;position:fixed !important}}.dk-client-static,.dk-backend-static,.dk-tipping-static,.dk-gift-static,.dk-flat-static{min-width:1px;min-height:1px;display:block !important}.dk-backend-wrapper,.dk-flat-wrapper,.dk-d4d-wrapper,.dk-gift-wrapper,.dk-tipping-wrapper,.dk-impact-wrapper{text-align:left;display:block !important;width:100%}.dk-round-up-banner-wrapper,.dk-preview-bar-banner-wrapper{display:block !important}.dk-modal-main-container{display:-ms-flexbox !important;display:flex !important}@media only screen and (max-width: 591px){.dk-backend-wrapper{display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center}}
+
